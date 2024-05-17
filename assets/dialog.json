@@ -1,0 +1,86 @@
+{
+    "fromMe": [
+        {
+            "id": "0000",
+            "details": [
+                [
+                    "hey",
+                    "sooo how was it?",
+                    "graduated, be a fully grown adult, got a whole possibilities infront of u rn",
+                    "belum kerasa ya ahahahahah",
+                    "so yes",
+                    "i just want to congratulate u",
+                    "and appreciate u",
+                    "untuk semuanya",
+                    "like look at yourself",
+					"u can be hot",
+					"<img src='img/hot1.jpg'>",
+					"<img src='img/hot2.jpg'>",
+					"<img src='img/hot3.jpg'>",
+                    "u can be cute",
+					"<img src='img/cute1.jpg'>",
+					"<img src='img/cute2.jpg'>",
+					"<img src='img/cute3.jpg'>",
+                    "and u can be beautiful",
+					"<img src='img/beautiful1.jpg'>",
+					"<img src='img/beautiful2.jpg'>",
+					"<img src='img/beautiful3.jpg'>",
+					"<img src='img/beautiful4.jpg'>",
+                    "kaya buy 1 get all gt lo wkwkwkw",
+                    "but ur more than a pretty face tho",
+                    "aku tu mau bikin pop up surat gt tp belum nemu caranya jadi dari sini ajaya:)",
+                    "jaadi selamat gradu sayaang! finally lah ya sesudah 3 taun struggling, kamu udaa buka lembaran baru sekarang. Kaya kita gatau apa yang masa depan siapin buat kita, but i trust u ko. ur a strong kind woman yang aku yakin bisa hadapin semua yang semesta lempar sama kamu, aku bakal selalu disini ko support semua pilihan2 kamu. Aku bakal berusaha cepet2 lulus ko wkwkwwk so that we can do all the shit we talked abt. Go see the world together, live with each other, just us against the world no? maaf aku gabisa ada disana buat hari ini, jadi sebagai kompensasi aku coba buat ini:) i think its gonna be cute tapi gatau ya menurut kamu wkwkwkw, thanks tho for giving me a shot, jadi temen ngobrol yg aku bisa nyablak apa apa, dan sekedar hearing my bullshit stories. i appreciate u boo and i want the best for a girl like u because u deserve it. aku bakal coba sebaik yang aku bisa ya nday, karena aku mau yang kita jalanin sekarang ini terus sampe kapanpun. ill try to be the best partner u can get, take a chance with me yes? for now just enjoy being sarjana yaaa! dan maaf if its cringe as hell but idgaf wkwkwkw, im looking forward to meeting u babe, cheers!",
+                    "ah lupa",
+                    "i love u"
+                ]
+            ],
+            "responses": [
+                {
+                    "content": "i love u too",
+                    "nextAuthor": [
+                        "0001"
+                    ]
+                },
+                {
+                    "content": "i love you more",
+                    "nextAuthor": [
+                        "0002"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "0002",
+            "details": [
+                [                    
+                    "🥹",
+                    "i love u most boo",
+					"-Taufan Nabiel Azhali"
+                ]
+            ]
+        },
+        {
+            "id": "0001",
+            "details": [
+                [
+                    "bukan yang ituuuu😡😡😡"
+                ]
+            ],
+            "responses": [
+                {
+                    "content": "i love u more",
+                    "nextAuthor": [
+                        "0002"
+                    ]
+                },
+                {
+                    "content": "i love u more",
+                    "nextAuthor": [
+                        "0002"
+                    ]
+                }
+            ]
+        }
+    ],
+    "fromUser": []
+}
